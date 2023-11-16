@@ -8,7 +8,6 @@ which effectively integrates multimodal cues by capturing cross-modal mapping re
 ### Clone the repository
 ```
 git clone https://github.com/TaoShi1998/MultiEMO.git
-cd MultiEMO
 ```
 ### Environment setup
 ```
@@ -19,6 +18,7 @@ conda activate MultiEMOEnv
 ```
 ### Install dependencies
 ```
+cd MultiEMO
 pip install -r requirements.txt
 ```
 ### Run the model
