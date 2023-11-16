@@ -1,0 +1,1 @@
+python Train/TrainMultiEMO.py  --dataset 'IEMOCAP' --num_layer 6 --batch_size 64 --SWFC_loss_param 0.4 --HGR_loss_param 0.4 --CE_loss_param 0.2 --sample_weight_param 1.1 --focus_param 2.4  2>&1 | tee Log/IEMOCAP/IEMOCAP_results.put
