@@ -12,6 +12,7 @@ cd MultiEMO
 ```
 ### Environment setup
 ```
+# Environment: Python 3.6.8; GPU: single RTX 3090 GPU, 256GB RAM
 conda create --name MultiEMOEnv python=3.6.8
 ```
 ### Install dependencies
