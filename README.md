@@ -14,7 +14,7 @@ cd MultiEMO
 ```
 # Environment: Python 3.6.8 + Torch 1.10.0 + CUDA 11.3
 # Hardware: single RTX 3090 GPU, 256GB RAM
-conda create --name MultiEMOEnv python=3.6.8
+conda create --name MultiEMOEnv python=3.6
 ```
 ### Install dependencies
 ```
