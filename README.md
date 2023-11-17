@@ -7,7 +7,7 @@ which effectively integrates multimodal cues by capturing cross-modal mapping re
 ## Quick Start
 ### Clone the repository
 ```
-git clone https://github.com/TaoShi1998/MultiEMO.git
+git clone https://github.com/TaoShi1998/MultiEMO-ACL2023.git
 ```
 ### Environment setup
 ```
